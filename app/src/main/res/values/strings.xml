@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QRCodeScan</string>
+    <string name="result">Результат</string>
+    <string name="textCopy">Скопировать текст</string>
+    <string name="uriCopy">Скопировать ссылку</string>
+    <string name="uriUse">Перейти по ссылке</string>
+    <string name="textCopied">Текст скопирован</string>
+    <string name="uriCopied">Ссылка скопирована</string>
+    <string name="saveQR">QR-код сохранен в галлерее</string>
+    <string name="editWarning">Заполните текстовое поле</string>
+    <string name="ok">OK</string>
+    <string name="send_via">Сохранить в галерею</string>
+    <string name="mainpage">Генератор/сканер QR-кода</string>
+    <string name="scan">Сканировать</string>
+    <string name="generate">Сгенерировать</string>
+    <string name="qrtext">QR-код появится здесь</string>
+    <string name="hint">Введите текст здесь</string>
+</resources>
